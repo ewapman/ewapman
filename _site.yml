@@ -1,0 +1,23 @@
+name: "Emily's-first-website"
+output_dir: "."
+navbar:
+  title: "Emily Wapman"
+  left:
+    - text: "Home"
+      icon: fa-home 
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-globe-americas
+      href: geog176A.html
+    - text: "CV"
+      icon: fa-file-text-o
+      href: cv.html 
+  right:
+    - icon: fa-github
+      text: "GitHub"
+      href: https://github.com/ewapman
+      
+output:
+  html_document:
+    theme: yeti
+    
