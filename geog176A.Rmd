@@ -20,3 +20,12 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 - Created tables and plots 
 - Learned how to use lags and the rolling mean to calculate new cases and the 7 day average 
 
+### [Distances and Projections](https://ewapman.github.io/geog-176A-labs/lab-03.html)
+
+##### In this project I:
+- Calculated the distances of US cities to various US borders
+- Built simple feature objects from R packages and CSVs to use as spatial data 
+- Manipulated map projections and geometries
+- Created maps using ggplot 
+
+
