@@ -28,4 +28,19 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 - Manipulated map projections and geometries
 - Created maps using ggplot 
 
+### [Tesselations, Point-in-Polygon](https://ewapman.github.io/geog-176A-labs/lab-04.html)
 
+##### In this project I:
+- Used tessellations to analyze dam data across the United States
+- Learned the importance of geometric simplification for calculations of large data sets 
+- Wrote functions to simplify the coding process
+- Used point-in-polygon counts on tessellation plots of the United States for visualization of dam distribution
+- Made a leaflet map representing the largest, at risk, flood control dams in each state
+
+### [Raster Analysis](https://ewapman.github.io/geog-176A-labs/lab-05.html)
+
+##### In this project I:
+- Learned how to work with Landsat 8 raster data to analyze flooding in a defined area of interest
+- Manipulated RGB channels for Landsat imagery to emphasize features and learned used various threshold techniques to find surface water
+- Learned how to use various threshold techniques to find surface water 
+- Calculated the kmeans to determine the accuracy of the binary raster layers
