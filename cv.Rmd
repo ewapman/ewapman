@@ -7,7 +7,8 @@ title: "Emily Wapman"
 #### **University of California, Santa Barbara**  
 - Bachelor of Science, Biology
 - Estimated graduation: June 2022
-- Relevant Coursework: General Chemistry with Labs, Linear Algebra, Physics, Organic Chemistry with Labs, Molecular, Cellular, and Developmental Biology with Labs, Ecology and Evolution 
+- Relevant Coursework: General Chemistry with Labs, Linear Algebra, Physics, Organic Chemistry with Labs, Molecular, Cellular, and Developmental Biology with Labs, Ecology and Evolution, Introduction to Geographic Information Systems
+
 
 ### **Experience** 
 ****
@@ -43,11 +44,14 @@ Goleta, CA
 - Developed leadership skills by enforcing facility regulations and practiced life-saving scenarios at staff trainings
 - Created swim lesson plans and taught swimming technique to groups of children and adults of all ages and abilities
 
+
 ### **Skills and Awards**
 ****
 - Dean’s Honors (3 quarters)
 - Pedrozzi Scholarship
 - Proficient in Spanish
+- GIS in R 
+
 
 ### **Activities**
 ****

@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-In the summer of 2020 I took a GIS course based in R. This was my first experience coding and learning about data science and it made me realize how important these skills can be in biology. Here is a collection of links! 
+In the summer of 2020 I took a GIS course based in R. This was my first experience coding and learning about data science and it made me realize how important these skills can be in any field. Here is a collection of links! 
 
 ---
 
@@ -89,7 +89,7 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 
 <center>
 
-![ ](~/github/geog-176A-labs/data/mission-creek-fim.gif){width="30%"}
+![ ](./img/Lab6.png){width="50%"}
 
 </center>
 
