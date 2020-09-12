@@ -19,9 +19,9 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 ### [Analysis of COVID-19 Data](https://ewapman.github.io/geog-176A-labs/lab-02.html)
 
 ##### In this project I:
-- Learned how to use dplyr verbs to manipulate nationwide data for the COVID-19 pandemic
+- Learned how to use dplyr to manipulate nationwide data for the COVID-19 pandemic
 - Learned how to join two data sets
-- Created tables and plots 
+- Created tables with knitr and plots in ggplot
 - Learned how to use lags and the rolling mean to calculate new cases and the 7 day average 
 
 <center>
@@ -35,10 +35,9 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 ### [Distances and Projections](https://ewapman.github.io/geog-176A-labs/lab-03.html)
 
 ##### In this project I:
-- Calculated the distances of US cities to various US borders
+- Learned about map projections and coordinate systems 
 - Built simple feature objects from R packages and CSVs to use as spatial data 
-- Manipulated map projections and geometries
-- Created maps using ggplot 
+- Calculated the distances of US cities to various US borders 
 
 
 <center>
@@ -56,7 +55,7 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 - Learned the importance of geometric simplification for calculations of large data sets 
 - Wrote functions to simplify the coding process
 - Used point-in-polygon counts on tessellation plots of the United States for visualization of dam distribution
-- Made a leaflet map representing the largest, at risk, flood control dams in each state
+- Made a leaflet map representing the largest, at risk flood control dams in each state
 
 <center>
 
@@ -68,8 +67,8 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 ### [Raster Analysis](https://ewapman.github.io/geog-176A-labs/lab-05.html)
 
 ##### In this project I:
-- Learned how to work with Landsat 8 raster data to analyze flooding in a defined area of interest
-- Manipulated RGB channels for Landsat imagery to emphasize features 
+- Used Landsat 8 raster data to analyze flooding in a defined area of interest
+- Manipulated RGB channels for Landsat imagery  
 - Learned how to use various threshold techniques to find surface water 
 - Calculated the kmeans to determine the accuracy of the binary raster layers
 
@@ -83,9 +82,9 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 ### [Flood Risk in Mission Creek: Past, Present, Future](https://ewapman.github.io/geog-176A-labs/lab-06.html)
 
 ##### In this project I:
-- Used USGS water data to analyze the impact flooding on buildings near Mission Creek
-- Created a hillshade raster for visualization and a HAND raster to assess flood water level
-- Created a static and animated plot for visualization of the flooded area and impacted buildings
+- Used USGS water data to analyze the impact of flooding on buildings near Mission Creek
+- Created a hillshade raster for visualization and a HAND raster to assess flood water levels
+- Created a static and animated plot of the flooded area and impacted buildings
 
 <center>
 
