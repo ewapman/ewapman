@@ -4,6 +4,8 @@ title: "Projects"
 
 In the summer of 2020 I took a GIS course based in R. This was my first experience coding and learning about data science and it made me realize how important these skills can be in biology. Here is a collection of links! 
 
+---
+
 ### [Building a project website](https://ewapman.github.io/)
 
 ##### In this project I:
@@ -11,6 +13,8 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 - Was introduced to Rmarkdown, YMAL, CSS, and HTML
 - Created code to construct and personalize a website 
 - Familiarized myself with Github and learned why is important for version control and publishing
+
+---
 
 ### [Analysis of COVID-19 Data](https://ewapman.github.io/geog-176A-labs/lab-02.html)
 
@@ -20,6 +24,14 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 - Created tables and plots 
 - Learned how to use lags and the rolling mean to calculate new cases and the 7 day average 
 
+<center>
+
+![ ](./img/Lab2.png){width="50%"}
+
+</center>
+
+---
+
 ### [Distances and Projections](https://ewapman.github.io/geog-176A-labs/lab-03.html)
 
 ##### In this project I:
@@ -27,6 +39,15 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 - Built simple feature objects from R packages and CSVs to use as spatial data 
 - Manipulated map projections and geometries
 - Created maps using ggplot 
+
+
+<center>
+
+![ ](./img/Lab3.png){width="50%"}
+
+</center>
+
+---
 
 ### [Tesselations, Point-in-Polygon](https://ewapman.github.io/geog-176A-labs/lab-04.html)
 
@@ -37,10 +58,40 @@ In the summer of 2020 I took a GIS course based in R. This was my first experien
 - Used point-in-polygon counts on tessellation plots of the United States for visualization of dam distribution
 - Made a leaflet map representing the largest, at risk, flood control dams in each state
 
+<center>
+
+![ ](./img/Lab4.png){width="50%"}
+</center>
+
+---
+
 ### [Raster Analysis](https://ewapman.github.io/geog-176A-labs/lab-05.html)
 
 ##### In this project I:
 - Learned how to work with Landsat 8 raster data to analyze flooding in a defined area of interest
-- Manipulated RGB channels for Landsat imagery to emphasize features and learned used various threshold techniques to find surface water
+- Manipulated RGB channels for Landsat imagery to emphasize features 
 - Learned how to use various threshold techniques to find surface water 
 - Calculated the kmeans to determine the accuracy of the binary raster layers
+
+<center>
+
+![ ](./img/Lab5.png){width="50%"}
+</center>
+
+---
+
+### [Flood Risk in Mission Creek: Past, Present, Future](https://ewapman.github.io/geog-176A-labs/lab-06.html)
+
+##### In this project I:
+- Used USGS water data to analyze the impact flooding on buildings near Mission Creek
+- Created a hillshade raster for visualization and a HAND raster to assess flood water level
+- Created a static and animated plot for visualization of the flooded area and impacted buildings
+
+<center>
+
+![ ](~/github/geog-176A-labs/data/mission-creek-fim.gif){width="30%"}
+
+</center>
+
+
+
