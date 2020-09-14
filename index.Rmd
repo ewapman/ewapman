@@ -15,7 +15,7 @@ title: "About Me"
   
 ---
 
-Contact: email: ewapman@ucsb.edu github: [https://github.com/ewapman]
+Contact: email: ewapman@ucsb.edu github: https://github.com/ewapman
 
 ---
 
